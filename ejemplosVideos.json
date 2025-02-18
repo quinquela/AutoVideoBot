@@ -1,0 +1,51 @@
+{
+    "gokuVScell": {
+        "file_path": "videos/cellvsgokueditado.mp4",
+        "type": "fight",
+        "description": "This is a scene where Goku faces Cell, an epic and balanced fight.",
+        "recommendation": "Make a joke about something the viewer can relate to, for example, you could write something like \"when you get matched against someone of your level\". This example relates to video games, and since the video is of a very balanced fight, it fits perfectly. But generally, it should be about fights or competitions in video games, arguments, physical fights, or sports. I recommend starting with \"me fighting against\". Always specify who you're fighting. Don’t make a joke related to sleep.",
+        "example": "me fighting with the cashier because they didn't give me my candy"
+    },
+    "machete_en_lamochila": {
+        "file_path": "videos/macheteenlamochila.mp4",
+        "type": "doesn’t fit a category",
+        "description": "This is a scene where Gohan, very confident, faces Majin Buu.",
+        "recommendation": "Make a joke where someone, you can refer to them as \"I\" or \"my bro\", is very confident and is about to do something like taking an exam without studying or fighting someone much stronger. Start with \"I/my bro going to take the exam I clearly didn't study for\"; it would be better if the joke isn’t about an exam. If it’s about a fight, make it an imbalanced one. Don't use the following joke: \"my bro challenging the boxing champion\".",
+        "example": "\"me entering the discussion with data from Wikipedia\" and \"me challenging the 2-meter guy at the gym after one month\""
+    },
+    "bardock_pelea": {
+        "file_path": "videos/bardockPelea.mp4",
+        "type": "fight",
+        "description": "This is a scene where Bardock faces hundreds of Freezer's soldiers.",
+        "recommendation": "Make a joke where someone says something cancelable in a place or environment where others will probably disagree. Refer to the one saying it as \"my friend\" or \"my bro\", then add \"after saying\" and finally the environment or place. It would be fitting for the joke to have somewhat classist humor.",
+        "example": "my bro after saying that Free Fire is for poor people in public school"
+    },
+    "cell_pensando": {
+        "file_path": "videos/cellPensando.mp4",
+        "type": "reflection",
+        "description": "This is the scene where Cell is being hit by Krillin but doesn't react or notice because he is thinking about something else.",
+        "recommendation": "Make a joke the viewer can relate to. I’d recommend doing it about a realization one has as a kid. Don’t make the joke about why my parents fight. Be specific and avoid using '...'",
+        "example": "me at 12 after discovering *that*"
+    },
+    "broly": {
+        "file_path": "videos/broly.mp4",
+        "type": "fight",
+        "description": "This is a scene where Goku and Broly try to hit Broly several times, but Broly dodges everything effortlessly.",
+        "recommendation": "I’d recommend starting with \"me and my bro fighting against the bastard who did\". It should be an obviously imbalanced fight, and you can also relate it to video games.",
+        "example": "my bro: it’s impossible for us to lose, it's a 2v1. The last one standing:"
+    },
+    "17anos": {
+        "file_path": "videos/17anos.mp4",
+        "type": "fight",
+        "description": "This is a scene where Omni-Man repeatedly hits his son, angrily.",
+        "recommendation": "I’d recommend starting with \"my dad after I\". It should be about a dad getting mad over something absurd but realistic, like asking for a tool and getting the wrong one. It should be about the typical homophobic and macho dad.",
+        "example": "my dad when I say I want to be a musician"
+    },
+    "unshowmas": {
+        "file_path": "videos/unshowmas.mp4",
+        "type": "fight",
+        "description": "This is a scene where a hacker tries to solve an error, and it looks very epic.",
+        "recommendation": "I’d recommend making a joke about someone as a kid trying to do something on the computer like \"me as a kid trying to search for porn on YouTube\".",
+        "example": "me at 10 trying to install mods on Minecraft"
+    }
+}
