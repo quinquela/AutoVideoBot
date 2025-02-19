@@ -38,7 +38,7 @@ def editarVideo(texto, path):
     cancion = random.choice(canciones)
     cancion_absoluta = os.path.join(base_dir, cancion)
     output_path = os.path.join(base_dir, f"outputVideos/{nombre}.mp4")
-
+    fontPath = os.path.join(base_dir, "fuente/opensans.ttf")
 
 
 
@@ -85,7 +85,7 @@ def editarVideo(texto, path):
                 text=texto,
                 x="w/2-text_w/2",
                 y = 500,
-                fontfile = r"C:\Users\manda\OneDrive\Escritorio\programacion\proyectos\VideosAutomatizados\fuente\Open_Sans\OpenSans-Italic-VariableFont_wdth,wght.ttf",
+                fontfile = fontPath,
                 fontsize = fontsize,
                 fontcolor = "white",
                 shadowcolor="black",
@@ -98,4 +98,6 @@ def editarVideo(texto, path):
     out.run(overwrite_output=True)
 
     
+    
+
     
