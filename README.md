@@ -19,13 +19,13 @@ Autovid is a program that automates the creation of shorts/reels/TikToks or vide
     "video1": {
         "file_path": "videos/video1.mp4",
         "description": "A funny video about coding.",
-        "recommendation": "Watch this video if you like programming.",
+        "recommendation": "make a joke about coding.",
         "example": "A programmer's life."
     },
     "video2": {
         "file_path": "videos/video2.mp4",
         "description": "A funny video about debugging.",
-        "recommendation": "Watch this video if you like solving problems.",
+        "recommendation": "make a joke about  how difficult is debugging.",
         "example": "Every bug has a solution."
     }
 }
